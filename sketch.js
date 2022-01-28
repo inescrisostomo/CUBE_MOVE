@@ -2,7 +2,7 @@ let x = 100;
 
 
 function setup() {
-  createCanvas(windowWidth, windowWidth, WEBGL);
+  createCanvas(windowWidth, windowHeight, WEBGL);
 }
 
 function draw() {
